@@ -17,7 +17,7 @@
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://dndacademy.github.io/)](http://dndacademy.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/company/dndacademy)](linkedin.com/company/dndacademy) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/company/dndacademy)](https://linkedin.com/company/dndacademy) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLzVjG8j1m4X8TSpMF-x5yw)](https://www.youtube.com/channel/UCLzVjG8j1m4X8TSpMF-x5yw) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/DNDACADEMY)](https://www.facebook.com/DNDACADEMY) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seong_dev/)](https://www.instagram.com/seong_dev/) 
