@@ -4,6 +4,13 @@
 
 </div>
 
+<div align=center>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgd122)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 ### Web Developer
 - Web Developer
 - I organize a group of developers who create Side Project - 모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요, [D&D](https://dnd.ac/)
@@ -23,8 +30,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seong_dev/)](https://www.instagram.com/seong_dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sgd0947@gmail.com)](mailto:sgd0947@gmail.com)
 </div>
-
-
 <!--
 **sgd122/sgd122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
