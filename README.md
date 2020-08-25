@@ -4,7 +4,7 @@
 
 </div>
 
-### Machine Learning Engineer
+### Web Developer
 - Web Developer
 - I organize a group of developers who create Side Project - 모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요, [D&D](https://dnd.ac/)
 
