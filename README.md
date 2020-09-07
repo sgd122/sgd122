@@ -4,10 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgd122)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
 ### Web Developer
 - Web Developer
-- I organize a group of developers who create Side Project - 모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요, [D&D](https://dnd.ac/)
+- I organize a group of developers who create Side Project - 모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요, [D&D](https://dnd.ac/).
 
 ### Interest
 - React.JS / React Native
@@ -17,6 +16,7 @@
 
 <div align=center>
 
+[![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=http://sgd122.github.io/)](http://sgd122.github.io/) 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://dndacademy.github.io/)](http://dndacademy.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/company/dndacademy)](https://linkedin.com/company/dndacademy) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCLzVjG8j1m4X8TSpMF-x5yw)](https://www.youtube.com/channel/UCLzVjG8j1m4X8TSpMF-x5yw) 
