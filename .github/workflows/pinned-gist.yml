@@ -12,7 +12,7 @@ jobs:
         uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: sgd122
+          GIST_ID: b5ad14812e80caebd892a98dbf5b8142
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
   productive-box:
@@ -23,5 +23,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: sgd122
+          GIST_ID: 01ea6249e8814b74f1c96bcaa8dc5ffa
           TIMEZONE: Asia/Seoul
