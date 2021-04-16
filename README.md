@@ -4,6 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgd122)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sgd122&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Web Developer
 - [Web Developer](https://sgd122.github.io/)
 - [I organize a group of developers who create Side Project - 모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요](https://dnd.ac/).
@@ -13,6 +15,7 @@
 - Python, Spring, Graphql
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
+
 
 <details>
   <summary>🕙 WakaTime</summary>
