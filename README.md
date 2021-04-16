@@ -14,6 +14,10 @@
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align=center>
 
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=http://sgd122.github.io/)](http://sgd122.github.io/) 
