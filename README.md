@@ -14,9 +14,11 @@
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<details>
+  <summary>🕙 WakaTime</summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
 
 <div align=center>
 
