@@ -6,7 +6,8 @@
 
 ### Web Developer
 - [Web Developer](https://sgd122.github.io/)
-- [I organize a group of developers who create Side Project - 모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요](https://dnd.ac/).
+- [DND - I organize a group of developers who create Side Project (모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요)](https://dnd.ac/).
+- [GDG Busan](https://gdg.community.dev/gdg-busan/)
 
 ### Interest
 - React.JS / React Native
