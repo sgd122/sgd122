@@ -8,6 +8,7 @@
 - [Web Developer](https://sgd122.github.io/)
 - [DND - I organize a group of developers who create Side Project (모두가 지역의 한계를 벗어나 실무 프로젝트를 완료해보세요)](https://dnd.ac/).
 - [GDG Busan](https://gdg.community.dev/gdg-busan/)
+- [programmers - K-Digital Training: 빅데이터 플랫폼 프론트엔드 엔지니어링](https://school.programmers.co.kr/app/courses/12404/dashboard)
 
 ### Interest
 - React.JS / React Native
