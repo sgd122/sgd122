@@ -9,7 +9,7 @@
 - [DND - Brings joy to the project, Brings opportunity to all](https://dnd.ac/).
 - [GDG Busan](https://gdg.community.dev/gdg-busan/)
 - [programmers - K-Digital Training: 빅데이터 플랫폼 프론트엔드 엔지니어링](https://programmers.co.kr/learn/courses/12175)
-- [Tech Blog](https://dndacademy.github.io/)
+- [Tech Blog](https://blog.dnd.ac)
 
 ### Interest
 - React.JS / React Native
