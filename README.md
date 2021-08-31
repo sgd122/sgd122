@@ -3,7 +3,8 @@
 <div align=center>
   
 [![GitHub Trophy]](https://github.com/ryo-ma/github-profile-trophy "GitHub Profile Trophy")
-[![GitHub Stats] ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
+[![GitHub Stats] 
+<!--   ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats") -->
 
 </div>
 
