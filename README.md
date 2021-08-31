@@ -1,7 +1,9 @@
-<div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sgd122&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sgd122&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+  
+<div align=center>
+  
+[![GitHub Trophy]](https://github.com/ryo-ma/github-profile-trophy "GitHub Profile Trophy")
+[![GitHub Stats] ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
 
 </div>
 
@@ -33,7 +35,8 @@
 </p>
 
 
-### 🕙 WakaTime
+<details>
+  <summary>🕙 WakaTime</summary>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
@@ -96,6 +99,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 31/08/2021
 <!--END_SECTION:waka-->
+</details>
 
 <div align=center>
 
@@ -109,3 +113,13 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsgd122%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+
+<!-- ===================== TAG ===================== -->
+  
+<!-- user status -->
+[github stats]: https://github-readme-stats.vercel.app/api?username=sgd122&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24
+[top languages]: https://github-readme-stats.vercel.app/api/top-langs?username=sgd122&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=8&hide=html,css,tex
+[github trophy]: https://github-profile-trophy.vercel.app/?username=sgd122&theme=juicyfresh&column=7&row=1&no-frame=true
+
+<!-- badge -->
