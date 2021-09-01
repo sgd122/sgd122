@@ -1,7 +1,7 @@
 <div align=center>
   
 [![GitHub Trophy]](https://github.com/ryo-ma/github-profile-trophy "GitHub Profile Trophy")
-![GitHub Stats] <img src="img/logo/prgrms.png" height=159>
+![GitHub Stats] <img src="https://raw.github.com/sgd122/sgd122/master/img/logo/prgrms.png" height=159>
 <!--  [![GitHub Stats] ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats") -->
 
 </div>
