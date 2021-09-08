@@ -9,9 +9,9 @@
 <h3 align="center">Web Developer</h3>
 
 <div align=center>
-<a href="https://www.rocketpunch.com/@sgd0947" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dnd.png" height=159 alt="DND"></a>
-<a href="https://gdg.community.dev/gdg-busan/" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/gdgBusan.png" height=159 alt="GDG Busan"></a><a href="https://programmers.co.kr/learn/courses/12175" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/programmers.png" height=159 alt="programmers"></a>
-<a href="https://blog.dnd.ac" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dndBlog.png" height=159 alt="DND 기술블로그"></a>
+<a href="https://www.rocketpunch.com/@sgd0947" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dnd.png" alt="DND"></a>
+<a href="https://gdg.community.dev/gdg-busan/" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/gdgBusan.png" alt="GDG Busan"></a><a href="https://programmers.co.kr/learn/courses/12175" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/programmers.png" alt="programmers"></a>
+<a href="https://blog.dnd.ac" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dndBlog.png" alt="DND 기술블로그"></a>
 </div>
 
 <h3 align="center">🛠 Language 🛠</h3>
