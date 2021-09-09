@@ -9,9 +9,9 @@
 <h3 align="center">Web Developer</h3>
 
 <div align=center>
-<a href="https://www.rocketpunch.com/@sgd0947" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dnd.png" alt="DND"></a>
-<a href="https://gdg.community.dev/gdg-busan/" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/gdgBusan.png" alt="GDG Busan"></a><a href="https://programmers.co.kr/learn/courses/12175" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/programmers.png" alt="programmers"></a>
-<a href="https://blog.dnd.ac" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dndBlog.png" alt="DND 기술블로그"></a>
+<a href="https://www.rocketpunch.com/@sgd0947" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dnd_1x.png" alt="DND"></a>
+<a href="https://gdg.community.dev/gdg-busan/" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/gdgBusan_1x.png" alt="GDG Busan"></a><a href="https://programmers.co.kr/learn/courses/12175" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/programmers_1x.png" alt="programmers"></a>
+<a href="https://blog.dnd.ac" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dndBlog_1x.png" alt="DND 기술블로그"></a>
 </div>
 
 <h3 align="center">🛠 Language 🛠</h3>
@@ -35,65 +35,65 @@
   <summary>🕙 WakaTime</summary>
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    252 commits    █████░░░░░░░░░░░░░░░░░░░░   21.56% 
-🌆 Daytime    664 commits    ██████████████░░░░░░░░░░░   56.8% 
-🌃 Evening    253 commits    █████░░░░░░░░░░░░░░░░░░░░   21.64% 
+🌞 Morning    252 commits    █████░░░░░░░░░░░░░░░░░░░░   21.56%
+🌆 Daytime    664 commits    ██████████████░░░░░░░░░░░   56.8%
+🌃 Evening    253 commits    █████░░░░░░░░░░░░░░░░░░░░   21.64%
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Tuesday      140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-Wednesday    214 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
-Thursday     203 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.37% 
-Friday       229 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59% 
-Saturday     113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
+Monday       167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Tuesday      140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.98%
+Wednesday    214 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31%
+Thursday     203 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.37%
+Friday       229 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59%
+Saturday     113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.67%
 Sunday       103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.81%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Seoul
 
-💬 Programming Languages: 
-Markdown                 1 hr 59 mins        ████████████░░░░░░░░░░░░░   47.6% 
-TypeScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   23.2% 
-JSX                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
+💬 Programming Languages:
+Markdown                 1 hr 59 mins        ████████████░░░░░░░░░░░░░   47.6%
+TypeScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   23.2%
+JSX                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84%
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.62%
 JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.82%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  4 hrs 9 mins        █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Mac                      4 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               17 repos            █████████████░░░░░░░░░░░░   54.84% 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+JavaScript               17 repos            █████████████░░░░░░░░░░░░   54.84%
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13%
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
+Last Updated on 09/09/2021
 
-
- Last Updated on 09/09/2021
 <!--END_SECTION:waka-->
 </details>
 
