@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">Web Developer</h3>
+<h3 align="center">🛠 Web Developer</h3>
 
 <div align=center>
 <a href="https://www.rocketpunch.com/@sgd0947" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dnd_1x.png" alt="DND"></a>
@@ -14,7 +14,7 @@
 <a href="https://blog.dnd.ac" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dndBlog_1x.png" alt="DND 기술블로그"></a>
 </div>
 
-<h3 align="center">🛠 Language 🛠</h3>
+<h3 align="center">💪 Language</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
