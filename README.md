@@ -115,6 +115,8 @@ Last Updated on 13/09/2021
   <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
+<h3 align="center">📌 Contact</h3>
+
 <div align=center>
 
 [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=http://sgd122.github.io/)](http://sgd122.github.io/)
