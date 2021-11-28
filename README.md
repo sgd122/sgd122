@@ -14,6 +14,7 @@
 <a href="https://blog.dnd.ac" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dndBlog_small.png" alt="DND 기술블로그"></a>
 </div>
 
+[데브코스 이야기](https://prgms.tistory.com/120)
 <details>
   <summary>🕙 WakaTime</summary>
 
