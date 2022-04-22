@@ -86,6 +86,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white">
@@ -100,6 +101,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000.svg?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-330F63.svg?style=flat-square&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
