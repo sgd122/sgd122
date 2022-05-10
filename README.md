@@ -17,6 +17,8 @@
 [데브코스 이야기](https://prgms.tistory.com/120)
 <details>
   <summary>🕙 WakaTime</summary>
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgd122&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
