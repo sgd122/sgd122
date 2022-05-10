@@ -15,12 +15,7 @@
 </div>
 
 <!-- [데브코스 이야기](https://prgms.tistory.com/120) -->
-<!-- [![dev_coruse](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=데브코스%20이야기&fontSize=40&fontAlignY=20)](https://prgms.tistory.com/120)   -->
-
-[![dev_coruse2](https://capsule-render.vercel.app/api?type=waving&height=200&text=데브코스%20이야기!&fontAlign=70&fontAlignY=40&color=gradient)](https://prgms.tistory.com/120)  
-
-
-
+[![dev_coruse](https://capsule-render.vercel.app/api?type=waving&height=200&text=데브코스%20운영일기%20보러가기&fontAlign=50&fontAlignY=40&color=gradient)](https://prgms.tistory.com/120)  
 
 <details>
   <summary>🕙 WakaTime</summary>
