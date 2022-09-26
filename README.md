@@ -12,7 +12,7 @@
 
 <div align=center>
 <a href="https://www.rocketpunch.com/@sgd0947" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dnd_small.png" alt="DND"></a>
-<a href="https://gdg.community.dev/gdg-busan/" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/gdgBusan_small.png" alt="GDG Busan"></a><a href="https://programmers.co.kr/learn/courses/13476" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/programmers_small.png" alt="programmers"></a>
+<a href="https://gdg.community.dev/gdg-busan/" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/gdgBusan_small.png" alt="GDG Busan"></a><a href="https://school.programmers.co.kr/learn/courses/14714" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/programmers_small.png" alt="programmers"></a>
 <a href="https://blog.dnd.ac" target='_blank'><img src="https://raw.github.com/sgd122/sgd122/master/img/profile/dndBlog_small.png" alt="DND 기술블로그"></a>
 </div>
 
