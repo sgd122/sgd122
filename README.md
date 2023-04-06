@@ -1,7 +1,5 @@
 <div align=center>
-  
-  <a href='https://coffee-hanzan.com/sgd122' target='_blank'><img height='56' style='border:0px;height:56px;' src='http://cdn.coffee-hanzan.com/default-btn.png' border='0' alt='커피한잔에서 커피 후원해주세요 :)' /></a>
-  
+    
 [![GitHub Trophy]](https://github.com/ryo-ma/github-profile-trophy "GitHub Profile Trophy")
 ![GitHub Stats] <img src="https://raw.github.com/sgd122/sgd122/master/img/logo/prgrms.png" height=159>
 <!--  [![GitHub Stats] ![Top Languages]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats") -->
