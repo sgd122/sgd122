@@ -19,9 +19,6 @@
 <!-- [데브코스 이야기](https://prgms.tistory.com/120) -->
 [![dev_coruse](https://capsule-render.vercel.app/api?type=waving&height=200&text=데브코스%20운영일기%20보러가기&fontAlign=50&fontAlignY=40&color=gradient)](https://prgms.tistory.com/120) 
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sgd122&tag=github)](https://velog-readme-stats.vercel.app/api/redirect?name=sgd122&tag=github)
-
 <details>
   <summary>🕙 WakaTime</summary>
   
