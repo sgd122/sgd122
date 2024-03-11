@@ -56,13 +56,13 @@ Sunday                   1869 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +78,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2024 00:30:45 UTC
+ Last Updated on 11/03/2024 00:29:37 UTC
 <!--END_SECTION:waka-->
 </details>
 
