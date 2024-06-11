@@ -25,7 +25,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgd122&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C695%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C696%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20million%20lines%20of%20code-blue)
 
@@ -56,17 +56,16 @@ Sunday                   1798 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    5 hrs               █████████████████████████   99.69 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    4 hrs               █████████████████████████   99.63 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Google Calendar          5 hrs               █████████████████████████   99.69 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Google Calendar          4 hrs               █████████████████████████   99.63 % 
+WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Unknown OS               5 hrs               █████████████████████████   99.69 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Unknown OS               4 hrs               █████████████████████████   99.63 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +81,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2024 00:32:59 UTC
+ Last Updated on 11/06/2024 00:30:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
