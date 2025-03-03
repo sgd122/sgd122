@@ -25,7 +25,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgd122&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C027%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C027%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
 
@@ -56,7 +56,7 @@ Sunday                   1661 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       █████████████████████████   99.75 % 
+TypeScript               2 hrs 13 mins       █████████████████████████   99.76 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
@@ -82,7 +82,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2025 00:31:41 UTC
+ Last Updated on 03/03/2025 00:29:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
