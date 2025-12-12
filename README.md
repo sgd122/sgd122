@@ -25,7 +25,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgd122&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C601%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C603%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
 
@@ -56,18 +56,18 @@ Sunday                   1646 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               49 hrs 54 mins      ███████████████████████░░   93.48 % 
-Other                    3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+TypeScript               35 hrs 17 mins      ██████████████████████░░░   89.77 % 
+Other                    4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   49 hrs 55 mins      ███████████████████████░░   93.52 % 
-Google Calendar          3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Cursor                   35 hrs 18 mins      ██████████████████████░░░   89.82 % 
+Google Calendar          3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 💻 Operating System: 
-Mac                      49 hrs 55 mins      ███████████████████████░░   93.52 % 
-Unknown OS               3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Mac                      35 hrs 18 mins      ██████████████████████░░░   89.82 % 
+Unknown OS               3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +83,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2025 00:32:42 UTC
+ Last Updated on 12/12/2025 00:32:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
