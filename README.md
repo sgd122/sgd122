@@ -25,7 +25,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgd122&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C736%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C746%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.7%20million%20lines%20of%20code-blue)
 
@@ -56,17 +56,17 @@ Sunday                   1645 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               95 hrs 57 mins      █████████████████████████   98.96 % 
-Other                    1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               91 hrs 42 mins      █████████████████████████   98.92 % 
+Other                    1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Cursor                   95 hrs 57 mins      █████████████████████████   98.97 % 
-Google Calendar          1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Cursor                   91 hrs 42 mins      █████████████████████████   98.92 % 
+Google Calendar          1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      95 hrs 57 mins      █████████████████████████   98.97 % 
-Unknown OS               1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Mac                      91 hrs 42 mins      █████████████████████████   98.92 % 
+Unknown OS               1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +82,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 00:32:07 UTC
+ Last Updated on 28/12/2025 00:36:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
