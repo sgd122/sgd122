@@ -25,7 +25,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sgd122&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C952%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C952%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -56,17 +56,16 @@ Sunday                   1646 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               49 hrs 47 mins      █████████████████████████   99.87 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               34 hrs 13 mins      █████████████████████████   99.89 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   49 hrs 51 mins      █████████████████████████   100.00 % 
+Cursor                   34 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      49 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +81,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 00:32:28 UTC
+ Last Updated on 08/01/2026 00:33:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
