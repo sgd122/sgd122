@@ -95,10 +95,10 @@ AI-powered contract analysis platform using Claude API for Korean freelancers.
 </td>
 <td width="50%">
 
-### [nextjs-with-gemini](https://github.com/sgd122/nextjs-with-gemini)
-Generative AI web application built with Google Gemini.
+### [dndacademy.github.io](https://github.com/DNDACADEMY/dndacademy.github.io)
+DND community tech blog — collaborative knowledge sharing platform.
 
-`Next.js` `Gemini API`
+`Jekyll` `SCSS`
 
 </td>
 </tr>
