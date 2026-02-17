@@ -11,7 +11,7 @@ Previously at **[@travelmakers](https://github.com/travelmakers)**, building Nex
 
 <br/>
 
-[`Portfolio`](http://sgd122.github.io/) &nbsp;&middot;&nbsp; [`Blog`](http://dndacademy.github.io/) &nbsp;&middot;&nbsp; [`LinkedIn`](https://linkedin.com/company/dndacademy) &nbsp;&middot;&nbsp; [`Email`](mailto:sgd0947@gmail.com)
+[`Blog`](https://blog.dnd.ac/) &nbsp;&middot;&nbsp; [`LinkedIn`](https://www.linkedin.com/in/sgd122/) &nbsp;&middot;&nbsp; [`Email`](mailto:sgd0947@gmail.com)
 
 </div>
 
