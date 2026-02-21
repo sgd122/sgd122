@@ -63,49 +63,6 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 <br/>
 
-## Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [nextjs-boilerplate](https://github.com/travelmakers/travelmakers-nextjs-boilerplate)
-Next.js production boilerplate with TypeScript, ESLint, and CI/CD pipeline.
-
-`Next.js` `TypeScript`
-
-</td>
-<td width="50%">
-
-### [dash](https://github.com/travelmakers/dash)
-Design system & component library for travelmakers products.
-
-`React` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [contract-guardian](https://github.com/sgd122/contract-guardian)
-AI-powered contract analysis platform using Claude API for Korean freelancers.
-
-`Next.js` `Claude API` `Supabase`
-
-</td>
-<td width="50%">
-
-### [dndacademy.github.io](https://github.com/DNDACADEMY/dndacademy.github.io)
-DND community tech blog — collaborative knowledge sharing platform.
-
-`Jekyll` `SCSS`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <details>
 <summary><b>WakaTime</b></summary>
 <br/>
