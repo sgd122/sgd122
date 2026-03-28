@@ -99,13 +99,13 @@ Sunday                   1653 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Unknown OS               1 hr 30 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2026 00:44:02 UTC
+ Last Updated on 28/03/2026 00:42:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
