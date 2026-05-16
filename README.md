@@ -19,13 +19,17 @@ Previously at **[@travelmakers](https://github.com/travelmakers)**, building Nex
 
 ## Currently Working On
 
-- Building [**Contract Guardian**](https://github.com/sgd122/contract-guardian) — AI 계약서 분석 SaaS (Next.js 16 + Claude API + Supabase)
-- Applying **Feature-Sliced Design** architecture to production monorepo
-- Exploring AI integration patterns: Claude API, Gemini API in Next.js apps
+- Building [**GDG Busan Hackathon Vote**](https://github.com/gdg-busan/2026-Build-with-AI-Hackaton-in-Busan) — 실시간 투표 플랫폼 (Next.js 16 + React 19 + Cloud Firestore)
+- Designing weighted scoring (심사위원 + 참가자 가중 점수) with anti-fraud 4중 검증
+- Crafting a "Living Terminal" dark UI with dramatic countdown result reveals
 
 ```mermaid
 journey
     title 2026 Focus Areas
+    section Realtime & Web
+      Firestore onSnapshot Sync: 5: Done
+      Custom Token Auth: 5: Done
+      Dramatic Result Reveal: 4: In Progress
     section AI & Web
       Claude API Integration: 5: Done
       Gemini API Exploration: 4: Done
@@ -34,10 +38,6 @@ journey
       FSD Migration: 5: Done
       Monorepo (Turborepo): 5: Done
       Design System (Dash): 4: Done
-    section Infra
-      Docker Production Build: 4: Done
-      Supabase Auth & RLS: 5: Done
-      Redis Rate Limiting: 3: In Progress
 ```
 
 <br/>
@@ -57,7 +57,7 @@ Production habits        Rate limiting, audit logging, PII filtering, CORS — b
 
 ```
 Frontend        TypeScript  ·  React  ·  Next.js  ·  Tailwind CSS  ·  React Native
-Backend         Node.js  ·  Supabase  ·  GraphQL  ·  MySQL
+Backend         Node.js  ·  Supabase  ·  Firebase  ·  GraphQL  ·  MySQL
 Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 ```
 
