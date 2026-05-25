@@ -68,6 +68,8 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C059%20hrs%2036%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.33%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -122,7 +124,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 01:01:55 UTC
+ Last Updated on 25/05/2026 01:03:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
