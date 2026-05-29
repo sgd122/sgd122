@@ -68,63 +68,22 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C059%20hrs%2036%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.33%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5142 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-🌆 Daytime                10537 commits       █████████████░░░░░░░░░░░░   51.54 % 
-🌃 Evening                4695 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌙 Night                  71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3015 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Tuesday                  3737 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Wednesday                5153 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Thursday                 2864 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   2763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 1433 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Sunday                   1480 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Other                    2 hrs               ████████████████████████░   95.16 % 
-TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-
-🔥 Editors: 
-Google Calendar          2 hrs               ████████████████████████░   95.16 % 
-Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-
-💻 Operating System: 
-Unknown OS               2 hrs               ████████████████████████░   95.16 % 
-Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.35%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            ██████████░░░░░░░░░░░░░░░   41.79 % 
-JavaScript               21 repos            ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+TypeScript               28 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+JavaScript               21 repos            ████████░░░░░░░░░░░░░░░░░   30.88 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 28/05/2026 00:57:41 UTC
+ Last Updated on 29/05/2026 01:06:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
