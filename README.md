@@ -68,7 +68,7 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C076%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C077%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -99,13 +99,13 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    30 mins             █████████████████████████   100.00 % 
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          30 mins             █████████████████████████   100.00 % 
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               30 mins             █████████████████████████   100.00 % 
+Unknown OS               1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 02:49:26 UTC
+ Last Updated on 17/07/2026 02:53:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
