@@ -68,6 +68,10 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C176%20hrs%2049%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2016%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.44%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -97,16 +101,16 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    2 hrs               ████████████████████████░   97.96 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    3 hrs               █████████████████████████   98.63 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs               ████████████████████████░   97.96 % 
-Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Google Calendar          3 hrs               █████████████████████████   98.63 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Unknown OS               2 hrs               ████████████████████████░   97.96 % 
-Mac                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Unknown OS               3 hrs               █████████████████████████   98.63 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -128,7 +132,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:51:46 UTC
+ Last Updated on 30/07/2026 02:36:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
