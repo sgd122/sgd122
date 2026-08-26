@@ -68,7 +68,7 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C176%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C178%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2016%20mins-blue?style=flat)
 
@@ -101,18 +101,20 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    7 hrs 41 mins       █████████████████████░░░░   84.25 % 
-Markdown                 1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other                    6 hrs 41 mins       █████████████████░░░░░░░░   69.43 % 
+Markdown                 2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Google Calendar          7 hrs 41 mins       █████████████████████░░░░   84.25 % 
-VS Code                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Cursor                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Google Calendar          6 hrs 41 mins       █████████████████░░░░░░░░   69.43 % 
+Cursor                   1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+VS Code                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 
 💻 Operating System: 
-Unknown OS               7 hrs 41 mins       █████████████████████░░░░   84.25 % 
-Mac                      1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Unknown OS               6 hrs 41 mins       █████████████████░░░░░░░░   69.43 % 
+Mac                      2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.57 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:25:08 UTC
+ Last Updated on 26/08/2026 01:30:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
