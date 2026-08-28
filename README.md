@@ -78,8 +78,8 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ```text
 🌞 Morning                5239 commits        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-🌆 Daytime                10634 commits       █████████████░░░░░░░░░░░░   51.32 % 
-🌃 Evening                4774 commits        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+🌆 Daytime                10634 commits       █████████████░░░░░░░░░░░░   51.31 % 
+🌃 Evening                4777 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -88,7 +88,7 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 Monday                   3032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 Tuesday                  3744 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
 Wednesday                5174 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Thursday                 2900 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Thursday                 2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 Friday                   2874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 Saturday                 1515 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
@@ -101,20 +101,20 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    4 hrs 45 mins       ███████████████░░░░░░░░░░   61.75 % 
-Markdown                 2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.49 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Other                    4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
+Markdown                 2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Google Calendar          4 hrs 45 mins       ███████████████░░░░░░░░░░   61.75 % 
-Cursor                   1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-VS Code                  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Google Calendar          4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
+Cursor                   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+VS Code                  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 
 💻 Operating System: 
-Unknown OS               4 hrs 45 mins       ███████████████░░░░░░░░░░   61.75 % 
-Mac                      2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   38.25 % 
+Unknown OS               4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
+Mac                      2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 08:12:08 UTC
+ Last Updated on 28/08/2026 10:15:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
