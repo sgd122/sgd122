@@ -68,7 +68,7 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C179%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C179%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2016%20mins-blue?style=flat)
 
@@ -101,20 +101,20 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
-Markdown                 2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.56 % 
+Markdown                 2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-Google Calendar          4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
-Cursor                   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-VS Code                  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Google Calendar          3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.56 % 
+Cursor                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+VS Code                  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 
 💻 Operating System: 
-Unknown OS               4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
-Mac                      2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
+Unknown OS               3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.56 % 
+Mac                      2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.44 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 10:15:12 UTC
+ Last Updated on 29/08/2026 06:13:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
