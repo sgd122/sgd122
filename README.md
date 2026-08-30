@@ -101,20 +101,20 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.56 % 
-Markdown                 2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
+Markdown                 2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Google Calendar          3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.56 % 
-Cursor                   1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-VS Code                  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Google Calendar          4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
+Cursor                   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+VS Code                  1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 
 💻 Operating System: 
-Unknown OS               3 hrs 45 mins       ██████████████░░░░░░░░░░░   55.56 % 
-Mac                      2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.44 % 
+Unknown OS               4 hrs 45 mins       ███████████████░░░░░░░░░░   61.30 % 
+Mac                      2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.70 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 06:13:26 UTC
+ Last Updated on 30/08/2026 04:21:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
