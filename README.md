@@ -101,20 +101,16 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    4 hrs               █████████████████░░░░░░░░   69.27 % 
-Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Other                    4 hrs               █████████████████████████   98.60 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Google Calendar          4 hrs               █████████████████░░░░░░░░   69.27 % 
-Cursor                   1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Google Calendar          4 hrs               █████████████████████████   98.60 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Unknown OS               4 hrs               █████████████████░░░░░░░░   69.27 % 
-Mac                      1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Unknown OS               4 hrs               █████████████████████████   98.60 % 
+Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +132,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 04:10:30 UTC
+ Last Updated on 02/09/2026 03:33:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
