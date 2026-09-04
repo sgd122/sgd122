@@ -101,16 +101,13 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    4 hrs               █████████████████████████   98.60 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    4 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          4 hrs               █████████████████████████   98.60 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Google Calendar          4 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               4 hrs               █████████████████████████   98.60 % 
-Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Unknown OS               4 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -132,7 +129,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 03:35:11 UTC
+ Last Updated on 04/09/2026 03:33:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
