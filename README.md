@@ -78,18 +78,18 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ```text
 🌞 Morning                5239 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-🌆 Daytime                10639 commits       █████████████░░░░░░░░░░░░   51.33 % 
-🌃 Evening                4777 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+🌆 Daytime                10640 commits       █████████████░░░░░░░░░░░░   51.32 % 
+🌃 Evening                4779 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   3032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Tuesday                  3744 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Wednesday                5174 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Tuesday                  3746 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Wednesday                5175 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
 Thursday                 2904 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   2874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   2874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
@@ -101,13 +101,13 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.00 % 
+Other                    3 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs               █████████████████████████   100.00 % 
+Google Calendar          3 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               2 hrs               █████████████████████████   100.00 % 
+Unknown OS               3 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,17 +119,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               30 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               21 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript               31 repos            ███████████░░░░░░░░░░░░░░   43.66 % 
+JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
 
 
- Last Updated on 15/09/2026 04:01:26 UTC
+ Last Updated on 16/09/2026 03:56:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
