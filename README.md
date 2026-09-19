@@ -72,26 +72,26 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5243 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-🌆 Daytime                10661 commits       █████████████░░░░░░░░░░░░   51.36 % 
-🌃 Evening                4781 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌞 Morning                5247 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌆 Daytime                10699 commits       █████████████░░░░░░░░░░░░   51.43 % 
+🌃 Evening                4783 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Tuesday                  3746 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Wednesday                5187 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Thursday                 2919 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   2874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Monday                   3032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Tuesday                  3746 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Wednesday                5200 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Thursday                 2933 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Friday                   2891 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 
 
@@ -101,19 +101,45 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.00 % 
+Other                    1 hr 49 mins        ███████████████░░░░░░░░░░   60.55 % 
+Markdown                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs               █████████████████████████   100.00 % 
+Google Calendar          59 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
+Hermes                   51 mins             ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Cursor                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 
 💻 Operating System: 
-Unknown OS               2 hrs               █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████░░░░░░░░   66.89 % 
+Unknown OS               59 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs (66.8%)
+
+✍️ 66 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,401,479 Input Tokens, 87,508 Output Tokens
+
+💵 $9.79 Estimated AI Cost This Week
+
+🧠 31 AI Sessions, 40 AI Prompts
+
+Composer                 66 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 905 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +155,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 03:50:44 UTC
+ Last Updated on 19/09/2026 03:46:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
