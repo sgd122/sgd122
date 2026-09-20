@@ -68,9 +68,9 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C179%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C180%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -101,35 +101,35 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 49 mins        ███████████████░░░░░░░░░░   60.55 % 
-Markdown                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    1 hr 34 mins        ██████████████░░░░░░░░░░░   56.98 % 
+Markdown                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Google Calendar          59 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
-Hermes                   51 mins             ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Cursor                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Google Calendar          59 mins             █████████░░░░░░░░░░░░░░░░   36.11 % 
+Cursor                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Hermes                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 
 💻 Operating System: 
-Mac                      2 hrs               █████████████████░░░░░░░░   66.89 % 
-Unknown OS               59 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
+Mac                      1 hr 45 mins        ████████████████░░░░░░░░░   63.89 % 
+Unknown OS               59 mins             █████████░░░░░░░░░░░░░░░░   36.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (66.8%)
+⏱ AI Coding Time: 1 hr 45 mins (63.79%)
 
 ✍️ 66 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,401,479 Input Tokens, 87,508 Output Tokens
+🔤 959,821 Input Tokens, 69,295 Output Tokens
 
-💵 $9.79 Estimated AI Cost This Week
+💵 $7.11 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 40 AI Prompts
+🧠 27 AI Sessions, 36 AI Prompts
 
 Composer                 66 lines            █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -137,7 +137,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 905 characters per prompt
+📄 Detailed Prompter — average 1,003 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -155,7 +155,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 03:46:34 UTC
+ Last Updated on 20/09/2026 04:03:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
