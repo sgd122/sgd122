@@ -72,26 +72,26 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2048%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.51%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5247 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌆 Daytime                10699 commits       █████████████░░░░░░░░░░░░   51.43 % 
-🌃 Evening                4783 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+🌞 Morning                5263 commits        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌆 Daytime                10703 commits       █████████████░░░░░░░░░░░░   51.40 % 
+🌃 Evening                4783 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
 🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Tuesday                  3746 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Wednesday                5200 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Thursday                 2933 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Friday                   2891 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Monday                   3043 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Tuesday                  3746 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Wednesday                5200 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Thursday                 2933 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   2900 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 ```
 
 
@@ -101,27 +101,27 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ██████████████░░░░░░░░░░░   56.98 % 
-Markdown                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    2 hrs 34 mins       █████████████████░░░░░░░░   68.42 % 
+Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Google Calendar          59 mins             █████████░░░░░░░░░░░░░░░░   36.11 % 
-Cursor                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Hermes                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Google Calendar          1 hr 59 mins        █████████████░░░░░░░░░░░░   53.10 % 
+Cursor                   42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Hermes                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Claude Code              26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 
 💻 Operating System: 
-Mac                      1 hr 45 mins        ████████████████░░░░░░░░░   63.89 % 
-Unknown OS               59 mins             █████████░░░░░░░░░░░░░░░░   36.11 % 
+Unknown OS               1 hr 59 mins        █████████████░░░░░░░░░░░░   53.10 % 
+Mac                      1 hr 45 mins        ████████████░░░░░░░░░░░░░   46.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (63.79%)
+⏱ AI Coding Time: 1 hr 45 mins (46.83%)
 
 ✍️ 66 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -155,7 +155,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 04:03:14 UTC
+ Last Updated on 21/09/2026 03:59:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
