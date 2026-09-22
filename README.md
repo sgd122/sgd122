@@ -7,6 +7,7 @@
 **Web Developer** &nbsp;&middot;&nbsp; Seoul, Korea
 
 I build web products with clean architecture and great developer experience.<br/>
+Currently at **[@NCredibleAI](https://github.com/NCredibleAI)**, building AI Agent × OT products for food manufacturing.<br/>
 Previously at **[@travelmakers](https://github.com/travelmakers)**, building Next.js platforms and design systems.
 
 <br/>
