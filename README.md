@@ -73,26 +73,26 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.77%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5353 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-🌆 Daytime                10845 commits       █████████████░░░░░░░░░░░░   51.49 % 
-🌃 Evening                4792 commits        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+🌞 Morning                5427 commits        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+🌆 Daytime                10963 commits       █████████████░░░░░░░░░░░░   51.56 % 
+🌃 Evening                4798 commits        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3131 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Tuesday                  3834 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Wednesday                5212 commits        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Thursday                 2960 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   2926 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Monday                   3180 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Tuesday                  3877 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Wednesday                5236 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Thursday                 3016 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Friday                   2952 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Sunday                   1481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 ```
 
 
@@ -102,36 +102,34 @@ Sunday                   1481 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr 24 mins        █████████████░░░░░░░░░░░░   52.44 % 
-Markdown                 35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Python                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-TypeScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    1 hr 13 mins        ████████████████░░░░░░░░░   64.62 % 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+TypeScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 
 🔥 Editors: 
-Google Calendar          1 hr                █████████░░░░░░░░░░░░░░░░   37.02 % 
-Hermes                   41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Claude Code              27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Cursor                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Codex Vscode             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Google Calendar          1 hr                █████████████░░░░░░░░░░░░   52.86 % 
+Claude Code              27 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Hermes                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Codex Vscode             7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Cursor                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        ████████████████░░░░░░░░░   62.98 % 
-Unknown OS               1 hr                █████████░░░░░░░░░░░░░░░░   37.02 % 
+Unknown OS               1 hr                █████████████░░░░░░░░░░░░   52.86 % 
+Mac                      53 mins             ████████████░░░░░░░░░░░░░   47.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 41 mins (62.88%)
+⏱ AI Coding Time: 53 mins (47.0%)
 
 ✍️ 193 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 794,297 Input Tokens, 42,866 Output Tokens
+🔤 694,551 Input Tokens, 39,005 Output Tokens
 
-💵 $7.30 Estimated AI Cost This Week
+💵 $6.37 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 38 AI Prompts
+🧠 14 AI Sessions, 22 AI Prompts
 
 Sonnet                   170 lines           ██████████████████████░░░   88.08 % 
 Composer                 23 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
@@ -139,7 +137,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,470 characters per prompt
+📚 Verbose Prompter — average 8,859 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -157,7 +155,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 03:46:32 UTC
+ Last Updated on 25/09/2026 04:05:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
