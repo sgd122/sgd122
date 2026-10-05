@@ -102,13 +102,13 @@ Sunday                   1482 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +130,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 04:58:27 UTC
+ Last Updated on 05/10/2026 04:46:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
