@@ -73,24 +73,24 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.23%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.24%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5696 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌆 Daytime                11400 commits       █████████████░░░░░░░░░░░░   51.71 % 
-🌃 Evening                4877 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+🌞 Morning                5692 commits        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+🌆 Daytime                11409 commits       █████████████░░░░░░░░░░░░   51.72 % 
+🌃 Evening                4887 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
 🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3302 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Tuesday                  4154 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Wednesday                5366 commits        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Thursday                 3145 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Friday                   3078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Monday                   3275 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Tuesday                  4167 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Wednesday                5376 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Thursday                 3164 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Friday                   3078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 Sunday                   1482 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
@@ -102,35 +102,55 @@ Sunday                   1482 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+Other                    1 hr 28 mins        ████████████████████████░   96.99 % 
+SSH Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-Google Calendar          1 hr                █████████████████████████   100.00 % 
+Google Calendar          1 hr                ████████████████░░░░░░░░░   65.66 % 
+Cursor                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Hermes                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 
 💻 Operating System: 
-Unknown OS               1 hr                █████████████████████████   100.00 % 
+Unknown OS               1 hr                ████████████████░░░░░░░░░   65.66 % 
+Mac                      31 mins             █████████░░░░░░░░░░░░░░░░   34.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 29 mins (31.78%)
+
+✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
+
+🔤 219,975 Input Tokens, 5,598 Output Tokens
+
+💵 $3.00 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 11 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
-JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               35 repos            ████████████░░░░░░░░░░░░░   46.67 % 
+JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 04:59:50 UTC
+ Last Updated on 08/10/2026 05:10:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
