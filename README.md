@@ -73,26 +73,26 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.83%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5607 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌆 Daytime                11421 commits       █████████████░░░░░░░░░░░░   51.96 % 
-🌃 Evening                4878 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+🌞 Morning                5641 commits        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+🌆 Daytime                11587 commits       █████████████░░░░░░░░░░░░   52.21 % 
+🌃 Evening                4893 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
 🌙 Night                  73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3258 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Tuesday                  4186 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Wednesday                5349 commits        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Thursday                 3175 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Friday                   3010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Sunday                   1482 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Monday                   3293 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Tuesday                  4234 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Wednesday                5406 commits        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Thursday                 3250 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Friday                   3010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Saturday                 1519 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Sunday                   1482 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 
 
@@ -102,39 +102,19 @@ Sunday                   1482 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    2 hrs 16 mins       █████████████████████████   98.02 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Other                    2 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs               ██████████████████████░░░   86.44 % 
-Hermes                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Cursor                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Google Calendar          2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               2 hrs               ██████████████████████░░░   86.44 % 
-Mac                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Unknown OS               2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (11.87%)
-
-✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
-
-🔤 93,934 Input Tokens, 1,639 Output Tokens
-
-💵 $0.49 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 4 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +130,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 04:06:10 UTC
+ Last Updated on 15/10/2026 03:48:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
