@@ -78,18 +78,18 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6391 commits        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-🌆 Daytime                13349 commits       █████████████░░░░░░░░░░░░   52.79 % 
-🌃 Evening                5401 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-🌙 Night                  148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+🌞 Morning                6407 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌆 Daytime                13349 commits       █████████████░░░░░░░░░░░░   52.75 % 
+🌃 Evening                5401 commits        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+🌙 Night                  148 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3769 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Tuesday                  4941 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Wednesday                5972 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-Thursday                 4091 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Monday                   3785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Tuesday                  4941 commits        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Wednesday                5972 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Thursday                 4091 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 Friday                   3438 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Saturday                 1548 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 Sunday                   1530 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
@@ -102,38 +102,37 @@ Sunday                   1530 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    16 hrs 51 mins      █████████████████████████   100.00 % 
+Other                    6 hrs 10 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          13 hrs 14 mins      ████████████████████░░░░░   78.56 % 
-Cursor                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Codex Vscode             1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Google Calendar          4 hrs 1 min         ████████████████░░░░░░░░░   65.18 % 
+Cursor                   1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Antigravity CLI          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Unknown OS               13 hrs 14 mins      ████████████████████░░░░░   78.56 % 
-Mac                      3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Unknown OS               4 hrs 1 min         ████████████████░░░░░░░░░   65.18 % 
+Mac                      2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 36 mins (21.44%)
+⏱ AI Coding Time: 2 hrs 8 mins (34.82%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,197,119 Input Tokens, 59,662 Output Tokens
+🔤 73,805 Input Tokens, 313 Output Tokens
 
-💵 $8.02 Estimated AI Cost This Week
+💵 $0.81 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 66 AI Prompts
+🧠 16 AI Sessions, 36 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,562 characters per prompt
+📝 Concise Prompter — average 126 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -151,7 +150,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 03:52:33 UTC
+ Last Updated on 25/10/2026 03:51:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
