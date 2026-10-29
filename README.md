@@ -73,26 +73,26 @@ Infra           Docker  ·  GitHub Actions  ·  AWS  ·  Vercel  ·  Turborepo
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.21%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6359 commits        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-🌆 Daytime                13099 commits       █████████████░░░░░░░░░░░░   52.45 % 
-🌃 Evening                5381 commits        █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-🌙 Night                  133 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌞 Morning                6438 commits        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌆 Daytime                13466 commits       █████████████░░░░░░░░░░░░   52.87 % 
+🌃 Evening                5434 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+🌙 Night                  133 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3817 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Tuesday                  4847 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Wednesday                5882 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Thursday                 3996 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Friday                   3353 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Saturday                 1547 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Sunday                   1530 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Monday                   3881 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  4933 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Wednesday                6032 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Thursday                 4118 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Friday                   3430 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Saturday                 1547 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Sunday                   1530 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 
@@ -102,13 +102,13 @@ Sunday                   1530 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    3 hrs               █████████████████████████   100.00 % 
+Other                    2 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          3 hrs               █████████████████████████   100.00 % 
+Google Calendar          2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               3 hrs               █████████████████████████   100.00 % 
+Unknown OS               2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +130,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:44:05 UTC
+ Last Updated on 29/10/2026 05:00:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
